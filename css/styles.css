@@ -30,12 +30,11 @@ table {
 
 
 /****************Class SELLECTORS*******************/
-.STAFF {
+.staff {
   height: 600px;
-
 }
 .header {
-  height: 150px;
+  height: 200px;
 }
 /****************ID SELLECTORS*******************/
 #Heading {
