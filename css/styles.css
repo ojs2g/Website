@@ -1,0 +1,43 @@
+/************* TAG SELECTORS****************/
+
+body {
+  background-color: #dbdbdb;
+  text-align: center;
+
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 20%;
+
+}
+h1 {
+  color: #cf7500;
+
+}
+
+h2 {
+color: #f0a500;
+
+}
+table {
+  align-content: center;
+}
+
+
+
+/****************Class SELLECTORS*******************/
+.STAFF {
+  height: 600px;
+
+}
+.header {
+  height: 150px;
+}
+/****************ID SELLECTORS*******************/
+#Heading {
+
+}
